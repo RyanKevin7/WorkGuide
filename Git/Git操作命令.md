@@ -34,7 +34,6 @@ git checkout dev			    ## 切换到 dev 分支
 - URL： https://git-scm.com/downloads
 
 
-
 #### 上传工程
 
 ```
@@ -45,6 +44,7 @@ git commit  ## 提交到本地仓库 会提示要求输入 user.name && user.ema
 		
 git commit -m '备注'   ## 提交时加上备注
 git remote add origin https://github.com/zhengkai7/ccnn.git  ## 本地仓库关联到GitHub
+git remote add origin https://github.com/RyanKevin7/WorkGuidi.git  ## 本地仓库关联到GitHub
 git push -u origin master   ## 代码上传到GitHub上
 ```
 
